@@ -5,7 +5,7 @@
 ### I'm an ecuadorian 🇪🇨 Tech Entrepreneur 👨🏻‍💻, Solutions Architect 📲 and Frontend Developer 🎨
 
 - 😄 What moves me?: Build solutions that help others to decrease uncertainties. 
-- 🤔💭 I believe that technology is a tool with the power to improve the problems of our society
+- 🤔💭 I believe that technology is a tool with the power to improve most of the problems of our society
 - 🔭 We launched [jrtec.io](https://jrtec.io/) to build innovative tech solutions from the center of the world (Quito-Ecuador)!
 - 🙆🏻‍♂️ I love trekking and play soccer
 - 💬 I'm Interested in Entrepreurship, Insurtech, Virtual assistants, Blockchain, Web3 and UI/UX.
