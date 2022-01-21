@@ -38,9 +38,9 @@
 
 ---
 
-<summary>⚡ GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonra1993&" alt="jonra1993"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonra1993&" alt="jonra1993"/>
 
 
 
