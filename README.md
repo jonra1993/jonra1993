@@ -5,8 +5,8 @@
 ## I am a Tech Entrepreneur 🖥️, Solutions Architect 👨🏻‍💻 and Frontend Developer 🎨
 
 - 😄 What moves me?: Build solutions that help others to decrease uncertainties. 
-- 🤔 I believe that technology is a tool with the power to improve the problems of our society
-- 🔭 We launched [jrtec.io](https://jrtec.io/) to build tech solutions!
+- 🤔💭 I believe that technology is a tool with the power to improve the problems of our society
+- 🔭 We launched [jrtec.io](https://jrtec.io/) to build innovative tech solutions from the center of the world (Quito-Ecuador)!
 - 🙆🏻‍♂️ I love trekking and play soccer
 - 💬 Interested in Entrepreurship, Insurtech, Virtual assistants, Blockchain, Web3 and UI/UX.
 
@@ -40,10 +40,9 @@
 
 ### ⚡ GitHub Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonra1993&" alt="jonra1993"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonra1993&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-
+Made with ❤️ by Jona
 
 [website]: https://jonathanvargas.ml/
 [instagram]: https://www.instagram.com/jona.ra/
