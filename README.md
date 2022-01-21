@@ -2,7 +2,7 @@
 
 
 
-## I am a Tech Entrepreneur 🖥️, Solutions Architect 🏩 and Frontend Developer 🎨
+## I am a Tech Entrepreneur 🖥️, Solutions Architect 👨🏻‍💻 and Frontend Developer 🎨
 
 - 😄 What moves me?: Build solutions that help others to decrease uncertainties. 
 - 🤔 I believe that technology is a tool with the power to improve the problems of our society
