@@ -6,7 +6,7 @@
 
 - 😄 What moves me?: Build solutions that help others to decrease uncertainties. 
 - 🤔💭 I believe that technology is a tool with the power to improve most of the problems of our society
-- 🔭 We launched [jrtec.io](https://jrtec.io/) to build innovative tech solutions from the center of the world (Quito-Ecuador)!
+- 🔭 We launched [jrtec.io](https://jrtec.io/) to build innovative tech solutions from the middle of the world [(Quito-Ecuador)](https://www.google.com/maps/place/Ciudad+Mitad+del+Mundo/@-0.1817487,-77.9992061,8z)!
 - 🙆🏻‍♂️ I love trekking and play soccer
 - 💬 I'm Interested in Entrepreurship, Insurtech, Virtual assistants, Blockchain, Web3 and UI/UX.
 
