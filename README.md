@@ -16,7 +16,9 @@
 [<img align="left" alt="Jonathan Vargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jonathan Vargas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Jonathan Vargas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Jonathan Vargas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br />
+
 
 ### Languages and Tools:
 
@@ -45,3 +47,4 @@
 [instagram]: https://www.instagram.com/jona.ra/
 [linkedin]: https://www.linkedin.com/in/jonathan-ramiro-vargas-suasnavas-a29752b5/
 [medium]: https://medium.com/@jonra1993
+[upwork]: https://www.upwork.com/freelancers/jonathanvargas21
