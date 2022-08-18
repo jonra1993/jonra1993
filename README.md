@@ -27,17 +27,18 @@
 
 <br />
 
-### What tools I use?:
+### What tools I usually use?:
 [<img align="left" alt="React and React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactnative.dev/)
 [<img align="left" alt="FastAPI" width="80px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" />](https://fastapi.tiangolo.com/)
 [<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />](https://nextjs.org/)
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://www.gatsbyjs.com/)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<svg width="50px" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 99 50" class="logos___StyledSvg-sc-1aa53x9-2 kslBvi"><path fill="var(--fg, currentColor)" fill-rule="evenodd" d="M86 43.39L69.984 35H4V9h91v26h-9v8.39zM0 5v34h69l21 11V39h9V5H0zm8 8h17v8.993l-5.486 2.134L25.13 31h-5.166l-4.372-5.35L12 27.049V31H8V13zm25 18h-4V13h18v18h-4v-6H33v6zm18-7V13h18v4H55v3h14v11H51v-4h14v-3H51zm22-1V13h18v18h-4v-6H77v6h-4v-8zm-61-.244l9-3.5V17h-9v5.756zM33 17v4h10v-4H33zm44 4v-4h10v4H77z" clip-rule="evenodd"></path></svg>](https://rasa.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />](https://www.terraform.io/)
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />](https://aws.amazon.com/)
+
 
 
 
