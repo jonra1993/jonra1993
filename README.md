@@ -32,8 +32,6 @@
 [<img align="left" alt="FastAPI" width="80px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" />](https://fastapi.tiangolo.com/)
 [<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />](https://nextjs.org/)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Rasa" width="40px" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1660840507/JRTEC/rasa_tkhokw.png" />](https://rasa.com/)
 [<img align="left" alt="Hugging face" width="75px" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1669572840/JRTEC/Hugging_Face_rq4zt0.png" />](https://huggingface.co/)
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />](https://www.docker.com/)
