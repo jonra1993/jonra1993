@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonra1993&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[website]: https://jonathanvargas.ml/
+[website]: https://www.jonathan-vargas.com/
 [instagram]: https://www.instagram.com/jona.ra/
 [linkedin]: https://www.linkedin.com/in/jonathan-ramiro-vargas-suasnavas-a29752b5/
 [medium]: https://medium.com/@jonra1993
