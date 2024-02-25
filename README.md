@@ -8,7 +8,7 @@
 - 🤔💭 I believe that technology is a tool with the power to improve most of the problems of our society
 - 🔭 We launched [allient.io](https://www.allient.io/) to build innovative tech solutions from the middle of the world [(Quito-Ecuador)](https://www.google.com/maps/place/Ciudad+Mitad+del+Mundo/@-0.1817487,-77.9992061,8z)!
 - 🙆🏻‍♂️ I love trekking and playing soccer
-- 💬 I'm Interested in Entrepreurship, Product Management, Insurtech, Conversational AI, Blockchain, Web3, UI/UX, and Startups with purpose.
+- 💬 I'm Interested in Entrepreneurship, Tech Product Management, Conversational AI, Blockchain, Web3, UI/UX, Insurtech, and Startups with purpose.
 
 ### Connect with me:
 
