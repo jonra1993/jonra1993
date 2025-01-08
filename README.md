@@ -29,7 +29,6 @@
 
 ### What tools do I usually use?:
 [<img align="left" alt="Supabase" width="100px" src="https://supabase.com/docs/_next/image?url=%2Fdocs%2Fsupabase-light.svg&w=256&q=75" />](https://supabase.com)
-[<img align="left" alt="FlutterFlow" width="100px" src="https://flutterflow.io/images/logo_primary_color_onLight.svg" />](https://flutterflow.io/)
 [<img align="left" alt="React and React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactnative.dev/)
 [<img align="left" alt="FastAPI" width="100px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />](https://fastapi.tiangolo.com/)
 [<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />](https://nextjs.org/)
