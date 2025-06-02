@@ -46,7 +46,6 @@
 ---
 
 ### ⚡ GitHub Stats
-
 [![GitHub Streak](https://github-readme-streak-stats-pi-self.vercel.app?user=jonra1993&theme=react)](https://git.io/streak-stats)
 
 [website]: https://www.jonathan-vargas.com/
